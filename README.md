@@ -44,4 +44,4 @@ Each directory contains the solutions to problems specific to that data structur
 Contributions are welcome! If you have a better solution or want to add a new problem, feel free to open a pull request.
 
 ## Contact
-If you have any questions or suggestions, feel free to reach out via my LinkedIn handle [in/shrihari-k](https://linkedin.com/in/shrihari-k) or open an issue in the repository.
+If you have any questions or suggestions, feel free to reach out via my LinkedIn handle [in/amruta-joshi](https://www.linkedin.com/in/amruta-joshi-91a9251a9/) or open an issue in the repository.
