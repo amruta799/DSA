@@ -27,6 +27,9 @@ in all four direction and keep replacing value to new color if the value is equa
 source initially
 '''
 
+from typing import List
+
+
 class Solution:
     def floodFill(self, image: List[List[int]], sr: int, sc: int, newColor: int) -> List[List[int]]:
         source = image[sr][sc]
